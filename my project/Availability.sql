@@ -1,0 +1,1 @@
+FUNCTION check_event_availability(p_event_id IN NUMBER) RETURN BOOLEAN;
